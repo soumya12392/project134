@@ -1,0 +1,13 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.heading {
+    width: 95%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#status, #baby {
+    font-size: 15px;
+}
